@@ -2,6 +2,8 @@
 
 My exercise solutions for [Full Stack Open](https://fullstackopen.com/en/), the University of Helsinki's online course on modern web development.
 
+I completed the TypeScript part (Part 9, 1 ECTS): [certificate](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/e9bd3494fe2786b2448171943d00ad7a). Part 10 (React Native) is started, not finished.
+
 Each folder is a separate project with its own `package.json`. The flight diary backend and the Patientor frontend started from the course's starter code; their history includes the course authors' commits.
 
 ## Part 9: TypeScript
@@ -15,7 +17,7 @@ Each folder is a separate project with its own `package.json`. The flight diary 
 | [patientor-backend](part9-typescript/patientor-backend) | Patient and diagnosis API with typed request validation | TypeScript, Express, Zod |
 | [patientor-frontend](part9-typescript/patientor-frontend) | Patient list and detail pages; adds hospital, occupational and health-check entries | React, TypeScript, Material UI |
 
-## Part 10: React Native
+## Part 10: React Native (unfinished)
 
 | Folder | What it is | Stack |
 |---|---|---|
